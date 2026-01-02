@@ -22,16 +22,6 @@ Today I take another step forward.
 <!-- <a href="#"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a> -->
  
 
-### 📖 Experiences
-2023.10 ~ 2024.03 : NCS [스마트웹&콘텐츠개발] 풀스택 자바웹개발자
-
-<br/>
-
-### 🎓 Education
-2019.03 ~ 2023.03 : 경복대학교 IT보안과(소프트웨어융합과)
-
-<br/>
- 
 <h3>💻 Tech Stack</h3>
  
 <br/>
